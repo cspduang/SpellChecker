@@ -1,0 +1,1 @@
+BST is way fater than a Trie. BST is just constant time becuase I wasn't needed to use any loops in the BST class. 
